@@ -42,7 +42,7 @@ Focused on AI systems, retrieval architectures, and high-performance ML.
 
 ## Github Stats
 
-![Paarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=cogniera&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cogniera&show_icons=true)
 
 ## Currently Deepening
 
