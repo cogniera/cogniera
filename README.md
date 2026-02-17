@@ -40,10 +40,6 @@ Focused on AI systems, retrieval architectures, and high-performance ML.
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
-## Github Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cogniera&show_icons=true)
-
 ## Currently Deepening
 
 Deep Learning (CNNs, RNNs, Transformers)
