@@ -39,6 +39,7 @@ Focused on AI systems, retrieval architectures, and high-performance ML.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## Currently Deepening
 
