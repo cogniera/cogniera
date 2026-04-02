@@ -18,6 +18,7 @@ Focused on AI systems, retrieval architectures, and high-performance ML.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -47,8 +48,6 @@ Focused on AI systems, retrieval architectures, and high-performance ML.
 Deep Learning (CNNs, RNNs, Transformers)
 
 Distributed training & systems design
-
-GPU/TPU compute optimization
 
 JAX / XLA / low-level ML performance
 
