@@ -35,6 +35,13 @@ Focused on AI systems, retrieval architectures, and high-performance ML.
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
+## Certifications
+
+- Getting Started with Advanced Computing with Nvidia CUDA C++ ([Certificate](https://learn.nvidia.com/certificates?id=mR0qVfrxTGG2FXZPjZfDtg))
+- Deep Learning Specialization by Andrew NG ([Certificate](https://learn.deeplearning.ai/certificates/76f4129b-552f-4ff1-acba-28da6cfba101))
+- Microsoft Certified : Azure Fundamentals ([Certificate](https://www.credly.com/badges/e8c4098f-9f2f-46d5-b15e-c8390d98a1fa/))
+- Microsoft Certified : Azure AI Fundamentals ([Certificate](http://credly.com/badges/75440e3a-43f7-4323-8754-0f867b4a36fb/))
+
 ## Currently Deepening
 
 Deep Learning (CNNs, RNNs, Transformers)
@@ -42,6 +49,8 @@ Deep Learning (CNNs, RNNs, Transformers)
 Distributed training & systems design
 
 JAX / XLA / low-level ML performance
+
+CUDA C++ , Nsight Systems , Nsight Compute
 
 ## Research Interests
 
@@ -68,3 +77,5 @@ Engineering depth
 LinkedIn: ([LinkedIn](https://www.linkedin.com/in/paarth-sharma-engineering/))
 
 Email: (paarths376@gmail.com)
+
+X: (https://x.com/paarths_)
