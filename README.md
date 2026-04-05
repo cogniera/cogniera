@@ -3,14 +3,6 @@ Hi, I’m Paarth
 Computer Engineering @ University of Waterloo
 Focused on AI systems, retrieval architectures, and high-performance ML.
 
-## What I’m Building
-
- Retrieval Systems Lab (RAG experiments, chunking strategies, reranking analysis)
-
- ML From First Principles (implementing models from scratch)
-
- Systems + ML experiments (latency, throughput, cost modeling)
-
 ## Tech Stack
 ## 💻 Tech Stack
 
