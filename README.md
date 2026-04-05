@@ -78,4 +78,4 @@ LinkedIn: ([LinkedIn](https://www.linkedin.com/in/paarth-sharma-engineering/))
 
 Email: (paarths376@gmail.com)
 
-X: (https://x.com/paarths_)
+X: ([X](https://x.com/paarths_))
