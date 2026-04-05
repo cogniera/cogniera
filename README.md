@@ -1,7 +1,7 @@
-Hi, I’m Paarth
+# Hi, I’m Paarth
 
-Computer Engineering @ University of Waterloo
-Focused on AI systems, retrieval architectures, and high-performance ML.
+##Computer Engineering @ University of Waterloo
+###Focused on AI systems, retrieval architectures, and high-performance ML.
 
 ## Tech Stack
 ## 💻 Tech Stack
