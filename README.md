@@ -1,3 +1,4 @@
+<img width="709" height="237" alt="image" src="https://github.com/user-attachments/assets/429b1a69-8107-4737-b569-5fd4374d0b80" />
 # Hi, I’m Paarth
 
 ## Computer Engineering @ University of Waterloo
