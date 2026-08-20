@@ -44,26 +44,8 @@ Computer Engineering student @ the University of Waterloo
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,php,bash,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,react,nextjs,tailwind,nodejs,redis" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,gcp,azure,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp" /><br/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/JAX-222827?logo=jax&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-</div>
-
 <br/>
 <hr/>
 <h2 align="center">🛠 Projects 🛠</h2>
@@ -73,9 +55,9 @@ Computer Engineering student @ the University of Waterloo
 
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
-| **[InferOpt](YOUR-REPO-LINK)** | FastAPI · React · Redis · Docker · Nginx | Semantic caching middleware for LLM queries. Routes through k-means clustered embedding centroids and fills response templates with a gap-learning slot engine, cutting token cost by 90% on repeated queries. First place at GenAI Genesis out of 100+ teams. |
-| **[Precursor](YOUR-REPO-LINK)** | Databricks · PySpark · XGBoost · MLflow | Financial ML pipeline on a medallion architecture fusing Alpaca OHLCV, FRED macro data, and SEC Form 4 filings into a 1.4M-row Delta Lake feature store. ~40 features with look-ahead bias prevention, walk-forward CV on S&P 500 direction. |
-| **[HyperbolicAttention](YOUR-REPO-LINK)** | JAX · Flax · Optax · HuggingFace | Research on whether hyperbolic geometry helps model code structure. Custom attention layer projecting Q/K onto the Lorentz hyperboloid, validated pre-training (Spearman r = 0.703), beat the transformer baseline within 5,000 steps on 8 TPUs. |
+| **[InferOpt]()** | FastAPI · React · Redis · Docker · Nginx | Semantic caching middleware for LLM queries. Routes through k-means clustered embedding centroids and fills response templates with a gap-learning slot engine, cutting token cost by 90% on repeated queries. First place at GenAI Genesis out of 100+ teams. |
+| **[Precursor]()** | Databricks · PySpark · XGBoost · MLflow | Financial ML pipeline on a medallion architecture fusing Alpaca OHLCV, FRED macro data, and SEC Form 4 filings into a 1.4M-row Delta Lake feature store. ~40 features with look-ahead bias prevention, walk-forward CV on S&P 500 direction. |
+| **[HyperbolicAttention]()** | JAX · Flax · Optax · HuggingFace | Research on whether hyperbolic geometry helps model code structure. Custom attention layer projecting Q/K onto the Lorentz hyperboloid, validated pre-training (Spearman r = 0.703), beat the transformer baseline within 5,000 steps on 8 TPUs. |
 
 </div>
 
@@ -96,10 +78,10 @@ Computer Engineering student @ the University of Waterloo
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YOUR-GITHUB-USERNAME&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YOUR-GITHUB-USERNAME&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=cogniera&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=cogniera&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cogniera&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
