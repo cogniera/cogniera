@@ -14,12 +14,12 @@ Computer Engineering student @ the University of Waterloo
 <br/>
 
 <div align="center">
-- 🚀 Writing a <b>CUDA C++ inference engine</b> for Meta's V-JEPA 2-AC world model, chasing sub-second per-action latency  
-- 🤖 Building a LiDAR navigation stack (costmaps, A*, obstacle avoidance) @ WATonomous  
-- 🛰 Shipping LSTM anomaly detection for satellite telemetry @ UW Orbital  
-- 🧠 Multi-agent LLM pipelines with evidence validation and traceable citations  
-- 🔬 Independent research on hyperbolic attention in JAX/Flax across 8 TPUs  
-- 📈 Currently sharpening: Nsight profiling, distributed training, XLA internals  
+🚀 Writing a <b>CUDA C++ inference engine</b> for Meta's V-JEPA 2-AC world model, chasing sub-second per-action latency  
+<br/>🤖 Building a LiDAR navigation stack (costmaps, A*, obstacle avoidance) @ WATonomous  
+<br/>🛰 Shipping LSTM anomaly detection for satellite telemetry @ UW Orbital  
+<br/>🧠 Multi-agent LLM pipelines with evidence validation and traceable citations  
+<br/>🔬 Independent research on hyperbolic attention in JAX/Flax across 8 TPUs  
+<br/>📈 Currently sharpening: Nsight profiling, distributed training, XLA internals  
 </div>
 
 <br/>
