@@ -13,7 +13,6 @@ Computer Engineering student @ the University of Waterloo
 <ul> 
 <li>Building a Inference Engine for V-JEPA-2-AC at WATonomous</li>
 <li>Building a Hyperbolic Transformer for Code with custom Pallas Kernels</li>
-<li>Contributing to <a href="https://github.com/vllm-project/vllm">vLLM</a> on batch-invariant inference</li>
 </ul>
 </div>
 <br/>
