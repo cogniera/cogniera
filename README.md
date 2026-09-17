@@ -38,37 +38,40 @@ Computer Engineering student @ the University of Waterloo
 <h2 align="center">🌐 Open Source 🌐</h2>
 <br/>
 <div align="center">
+
 | Project | Contribution |
 | :--- | :--- |
 | **[vLLM](https://github.com/vllm-project/vllm)** | Validated the EXAONE 4.0 series for batch-invariant inference and bitwise-identical outputs regardless of batch size or request ordering. I did this across three checkpoints on RTX 4090 and H200 NVL. Merged in [#53839](https://github.com/vllm-project/vllm/pull/53839). |
- 
+
 </div>
 <br/>
 <hr/>
 <h2 align="center">🛠 Projects 🛠</h2>
 <br/>
+
 <h3 align="center">🚧 Ongoing</h3>
- 
+
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
 | **[HyperbolicAttention]()** | JAX | Research on whether hyperbolic geometry helps model code structure. Custom attention layer projecting Q/K onto the Lorentz hyperboloid, validated pre-training (Spearman r = 0.703), beat the transformer baseline within 5,000 steps on 8 TPUs. |
- 
+
 <h3 align="center">✅ Completed</h3>
- 
+
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
 | **[InferOpt]()** 🏆 Hackathon Winner | FastAPI | Semantic caching middleware for LLM queries. Routes through k-means clustered embedding centroids and fills response templates with a gap-learning slot engine, cutting token cost by 90% on repeated queries. First place at GenAI Genesis out of 100+ teams. |
 | **[Precursor]()** | PySpark | Financial ML pipeline on a medallion architecture fusing Alpaca OHLCV, FRED macro data, and SEC Form 4 filings into a 1.4M-row Delta Lake feature store. ~40 features with look-ahead bias prevention, walk-forward CV on S&P 500 direction. |
 | **[SOMA](https://github.com/cogniera/Soma)** | React | AI-powered anatomy education platform. Conversational symptom triage with an AI mascot, interactive 3D voxel muscle visualization, and narrated (ElevenLabs TTS) anatomy lessons. |
 | **[TinyGPT](https://github.com/cogniera/TinyGPT)** | JAX | A small GPT-style decoder-only transformer built from scratch and trained on the TinyStories dataset, covering architecture, data pipeline, training, and inference. |
- 
+
 <br/>
 <hr/>
 <h2 align="center">📜 Certifications 📜</h2>
 <br/>
 <div align="center">
+
 [Advanced Computing with NVIDIA CUDA C++](https://learn.nvidia.com/certificates?id=mR0qVfrxTGG2FXZPjZfDtg) · [Deep Learning Specialization](https://learn.deeplearning.ai/certificates/76f4129b-552f-4ff1-acba-28da6cfba101) · [Azure Fundamentals](https://www.credly.com/badges/e8c4098f-9f2f-46d5-b15e-c8390d98a1fa/) · [Azure AI Fundamentals](http://credly.com/badges/75440e3a-43f7-4323-8754-0f867b4a36fb/)
- 
+
 </div>
 <br/>
 <hr/>
