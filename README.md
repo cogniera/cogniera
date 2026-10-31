@@ -30,7 +30,6 @@ University of Waterloo
 | Role | Organization | Dates | Summary |
 | :--- | :--- | :--- | :--- |
 | Software Developer | IlluminexAI | Sep 2026 – Dec 2026 | GPU-accelerated foreign object detection systems for global airports |
-| Core Member | WATonomous | May 2026 – Present | Developing [swiftJEPA](https://github.com/cogniera/swiftJEPA), a CUDA inference engine for Meta's V-JEPA 2-AC, targeting sub-second latency via FlashAttention kernels and kernel fusion |
 | Ground Station Developer | UW Orbital | Jan 2026 – Present | LSTM anomaly detection for satellite telemetry, adapted from NASA JPL's dynamic thresholding approach |
 | ML Developer | Hostalky (via Practera) | Jan 2026 – Apr 2026 | Doctor-patient transcript to clinical notes pipeline, 12% higher Token F1 over single-LLM baseline; cut hallucination rate 75% |
 | Software Development Intern | Sample Junction | Nov 2025 – Aug 2026 | LangGraph lead enrichment pipeline (Hunter.io, Apollo.io, Pinecone), 300+ profiles/month, saving 100+ hours of manual research |
@@ -46,4 +45,3 @@ University of Waterloo
 | **[InferOpt]()** | Python | Semantic caching for LLM queries, 90% cost cut, 1st place at GenAI Genesis | Shipped |
 | **[Precursor]()** | Python | Financial ML pipeline, 1.4M-row feature store, S&P 500 direction prediction | Shipped |
 | **[SOMA](https://github.com/cogniera/Soma)** | JavaScript | AI-guided anatomy lessons with 3D voxel visualization | Shipped |
-| **[TinyGPT](https://github.com/cogniera/TinyGPT)** | Python | Decoder-only transformer built from scratch, trained on TinyStories | Shipped |
