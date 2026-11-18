@@ -36,7 +36,8 @@
 
 | Project | Language | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **[neoKernel]()** | Python | Automatic research loop for inference code optimization using GLM 5.2 |
+| **[swiftJEPA]()** | Python | inference Engine for V-JEPA-2 | Ongoing |
+| **[neoKernel]()** | Python | Automatic research loop for inference code optimization using GLM 5.2 | Ongoing |
 | **[HyperbolicAttention]()** | JAX | Hyperbolic attention layer for code, projecting Q/K onto the Lorentz hyperboloid | Ongoing |
 | **[InferOpt]()** | Python | Semantic caching for LLM queries, 90% cost cut, 1st place at GenAI Genesis | Shipped |
 | **[Precursor]()** | Python | Financial ML pipeline, 1.4M-row feature store, S&P 500 direction prediction | Shipped |
