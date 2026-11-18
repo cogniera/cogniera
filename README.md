@@ -6,7 +6,7 @@
 </td>
 <td valign="middle" align="center">
 
-# Paarth Sharma
+# Paarth
 
 **hi**
 
