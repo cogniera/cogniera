@@ -8,7 +8,7 @@
 
 # Paarth Sharma
 
-**I code**
+**want to work on creating safe superintelligence**
 
 </td>
 </tr>
